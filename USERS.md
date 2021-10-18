@@ -102,6 +102,7 @@ Currently, the following organizations are **officially** using Argo CD:
 1. [Peloton Interactive](https://www.onepeloton.com/)
 1. [Pipefy](https://www.pipefy.com/)
 1. [Polarpoint.io](https://polarpoint.io)
+1. [PostFinance.ch](https://www.postfinance.ch)
 1. [Preferred Networks](https://preferred.jp/en/)
 1. [Prudential](https://prudential.com.sg)
 1. [PUBG](https://www.pubg.com)
